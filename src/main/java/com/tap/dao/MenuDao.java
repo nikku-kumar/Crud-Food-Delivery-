@@ -18,3 +18,4 @@ public interface MenuDao {
 	List<Menu> getByRestaurantId(int restaurantId);
 	List<Menu> getByName(String name);
 }
+//hi
